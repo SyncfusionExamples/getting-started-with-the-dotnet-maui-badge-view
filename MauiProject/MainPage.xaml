@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sf="clr-namespace:Syncfusion.Maui.Core;assembly=Syncfusion.Maui.Core"
+             x:Class="MauiProject.MainPage">
+    <!--BadgeText="20" Stroke="Orange" StrokeThickness="2"-->
+    <sf:SfBadgeView HeightRequest="80" WidthRequest="120">
+        <sf:SfBadgeView.Content>
+            <!--<Button Text="Message" HeightRequest="60" WidthRequest="120"/>-->
+            <Image Source="people_circle1.png" HeightRequest="100" WidthRequest="80"/>
+        </sf:SfBadgeView.Content>
+        <sf:SfBadgeView.BadgeSettings>
+            <sf:BadgeSettings Type="Info"
+                              Position="TopLeft"
+                              Icon="Add"
+                              Offset="1,10"
+                              BadgeAlignment="End"
+                              FontSize="15"
+                              FontAttributes="Italic"
+                              FontFamily="serif"
+                              TextColor="Black"/>
+        </sf:SfBadgeView.BadgeSettings>
+    </sf:SfBadgeView>
+    
+</ContentPage>
