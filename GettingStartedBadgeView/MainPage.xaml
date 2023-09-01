@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:badge="clr-namespace:Syncfusion.Maui.Core;assembly=Syncfusion.Maui.Core"
+             x:Class="GettingStartedBadgeView.MainPage">
+
+    <badge:SfBadgeView HorizontalOptions="Center" VerticalOptions="Center" BadgeText="20">
+        <badge:SfBadgeView.Content>
+            <Button Text="Primary" WidthRequest="120"  HeightRequest="60"/>
+        </badge:SfBadgeView.Content>
+    </badge:SfBadgeView>
+
+</ContentPage>
