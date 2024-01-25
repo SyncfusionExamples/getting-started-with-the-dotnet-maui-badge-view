@@ -1,5 +1,5 @@
 # Getting Started with the .NET MAUI BadgeView Control
-The [.NET MAUI Badge View](https://www.syncfusion.com/maui-controls/maui-badge-view?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples) is a notification control that is used to notify users of new or unread messages, notifications, or status information. This article explains the steps required to configure the .NET MAUI Badge View control for .NET MAUI Badge Notifications and customize its elements.
+The [.NET MAUI Badge View](https://www.syncfusion.com/maui-controls/maui-badge-view?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples) is a notification control that is used to notify users of new or unread messages, notifications, or status information. A quick-start project that helps you integrate the Syncfusion Badge View control with a .NET MAUI application by adding the Syncfusion MAUI Core package from NuGet. This project contains simple code to apply predefined styles, icons, and other customizations.
 
 ### Adding the .NET MAUI BadgeView
 **Step 1:** Add the NuGet to the project and add the namespace as shown in the following code sample:
@@ -54,20 +54,20 @@ Syncfusion has no liability for any damage or consequence that may arise by usin
 
 ## Features and Benefits
 
-### Position
+### Badge Position
 Change and move badges to the left, right, top, bottom, bottom-left, bottom-right, top-left, or top-right position on the content as needed.
 
-### Type
+### Badge Type
 Eight predefined contextual color variants are available for badges, including primary, secondary, warning, error, and more.
 
-### Alignment 
+### Badge Alignment 
 Align badges to their content in start, end, and center modes.
 
-### Icon
+### Badge Icon
 The .NET MAUI Badge View control provides predefined notification symbols such as available, busy, away, delete, and more.
 
-### Customization
-Customize the MAUI Badge View control’s background color, text color, and font styles easily.
+### Badge Customization
+Customize the [.NET MAUI Badge View Customization](https://help.syncfusion.com/maui/badge-view/badge-customization) control’s background color, text color, and font styles easily.
 
 ## Related links
 [Learn More about .NET MAUI Badge View](https://www.syncfusion.com/maui-controls/maui-badge-view?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples)
@@ -88,7 +88,7 @@ Customize the MAUI Badge View control’s background color, text color, and font
 
 ## About Syncfusion .NET MAUI Controls
 
-Syncfusion's [.NET MAUI UI Controls](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI Controls in a single package. In addition to Radial Gauge, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples)[Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples), [Scheduler](https://www.syncfusion.com/maui-controls/maui-scheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples), [ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples), and [Excel Library](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples).
+Syncfusion's [.NET MAUI UI Controls](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI Controls in a single package. In addition to Badge View, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples)[Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples), [Scheduler](https://www.syncfusion.com/maui-controls/maui-scheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples), [ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples), and [Excel Library](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples).
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
