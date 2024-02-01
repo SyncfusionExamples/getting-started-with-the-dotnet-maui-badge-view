@@ -38,7 +38,7 @@ An Image, button, or label or any view can be added to the Badge View using the 
 
 ## Project pre-requisites
 
-Make sure that you have the compatible versions of Visual Studio with .NET MAUI workloads and .NET SDK version in your machine before starting to work on this project. Refer to [System Requirements for .NET MAUI](https://help.syncfusion.com/maui/system-requirements).
+Make sure that you have the compatible versions of Visual Studio with .NET MAUI workloads and .NET SDK version in your machine before starting to work on this project. Refer to [System Requirements for .NET MAUI](https://help.syncfusion.com/maui/system-requirements?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples).
 
 ## How to run this application?
 
@@ -67,7 +67,7 @@ Align badges to their content in start, end, and center modes.
 The .NET MAUI Badge View control provides predefined notification symbols such as available, busy, away, delete, and more.
 
 ### Badge Customization
-Customize the [.NET MAUI Badge View Customization](https://help.syncfusion.com/maui/badge-view/badge-customization) control’s background color, text color, and font styles easily.
+Customize the [.NET MAUI Badge View Customization](https://help.syncfusion.com/maui/badge-view/badge-customization?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples) control’s background color, text color, and font styles easily.
 
 ## Related links
 [Learn More about .NET MAUI Badge View](https://www.syncfusion.com/maui-controls/maui-badge-view?utm_source=github&utm_medium=listing&utm_campaign=maui-badge-view-github-samples)
